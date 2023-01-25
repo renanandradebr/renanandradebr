@@ -19,7 +19,9 @@
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+ 
+##
+- Redes sociais
   
-<div>
-  
-</div>
+ ![snake animation]()
+
