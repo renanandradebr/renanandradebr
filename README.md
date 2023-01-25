@@ -23,6 +23,6 @@
 ##
 - Redes sociais
   
-![Snake eif](https://github.com/renanandradebr/renanandradebr/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/renanandradebr/renanandradebr/blob/output/github-contribution-grid-snake.svg)
 
 
