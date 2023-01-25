@@ -1,6 +1,6 @@
 ###  ✨ Olá, eu sou o Renan Andrade 🖖
 
-- 🔭 Estou trabalhando como Auxiliar no desenvolvimento de sistemas
+- 🔭 Auxiliar no desenvolvimento de sistemas | Vue.js
 - 🌱 Estou estudando Javascript, Vue.js, Java
 - 😄 Pronome: Ele/dele
 
