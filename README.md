@@ -1,6 +1,6 @@
 ###  ✨ Olá, eu sou o Renan Andrade 🖖
 
-- 🔭 Auxiliar no desenvolvimento de sistemas | Vue.js
+- 🔭 Auxiliar no Desenvolvimento de Sistemas | Vue.js / Quartz (Java)
 - 🌱 Estou estudando Javascript, Vue.js, Java
 - 😄 Pronome: Ele/dele
 ##
