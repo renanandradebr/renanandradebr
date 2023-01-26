@@ -22,4 +22,3 @@
 ##
 - Redes sociais
   
-![Snake animation](https://github.com/renanandradebr/renanandradebr/blob/output/github-contribution-grid-snake.svg)
