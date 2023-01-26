@@ -9,7 +9,7 @@
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=renanandradebr&show_icons=true&theme=dark">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanandradebr&theme=dark">
 </div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
