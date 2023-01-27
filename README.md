@@ -19,7 +19,9 @@
    <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Renan-pic" height="150" style="border-radius:30px;" src="https://media.tenor.com/a8qMFvt-p6kAAAAC/sailor-moon-anime.gif">
+  <img align="right" alt="Renan-pic" height="150" style="border-radius:90px;" src="https://media.tenor.com/a8qMFvt-p6kAAAAC/sailor-moon-anime.gif">
+  <img align="center" alt="Renan-vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+          
 </div>
 
 ##
