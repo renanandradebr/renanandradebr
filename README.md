@@ -6,8 +6,7 @@
 ##
 <div>
   <a href="https://stackoverflow.com/users/21075222/renan-andrade">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=renanandradebr&show_icons=true&theme=dark">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanandradebr&theme=dark">
+ 
  
 </div>
  
