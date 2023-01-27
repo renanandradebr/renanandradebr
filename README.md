@@ -5,7 +5,11 @@
 - 😄 Pronome: Ele/dele
 ##
 <div>
-  <a href="https://stackoverflow.com/users/21075222/renan-andrade">
+  <div>
+  <a href="[https://github.com/renanandradebr](https://github.com/renanandradebr)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanandradebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanandradebr&layout=compact&langs_count=16&theme=dark"/>
+</div>
  
  
 </div>
