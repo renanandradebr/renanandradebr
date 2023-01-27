@@ -1,4 +1,6 @@
-###  ✨ Olá, eu sou o Renan Andrade 🖖
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+bem+vindos+ao+meu+perfil+!+%E2%9C%A8%E2%9C%A8%E2%9C%A8" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 Auxiliar no Desenvolvimento de Sistemas | Vue.js / Quartz (Java)
 - 🌱 Estou estudando - Javascript, Vue.js, Java
