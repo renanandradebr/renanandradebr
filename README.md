@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F78322&multiline=true&width=699&lines=Ol%C3%A1%2C+bem+vindos+a+minha+p%C3%A1gina!;Meu+nome+%C3%A9+Renan+Andrade+e+sou+estudante+de+BICT+pela+UFMA.)](https://git.io/typing-svg)
 ##
 
--  Auxiliar no Desenvolvimento de Sistemas | Vue.js / Quartz (Java)
+-  Aprendiz no Desenvolvimento de Sistemas | Javascript | HTML | CSS | Vue.js | Quartz (Java) | Python
 -  Estou estudando - Javascript, Vue.js, Java
 ##
 <div>
