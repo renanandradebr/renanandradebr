@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F78322&multiline=true&width=699&lines=Ol%C3%A1%2C+bem+vindos+a+minha+p%C3%A1gina!;Meu+nome+%C3%A9+Renan+Andrade+e+sou+estudante+de+BICT+pela+UFMA.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
 ##
 
 -  Aprendiz no Desenvolvimento de Sistemas | Javascript | HTML | CSS | Vue.js | Quartz (Java) | Python
