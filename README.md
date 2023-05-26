@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
 ##
 -  Aprendiz no Desenvolvimento de Sistemas | Javascript | HTML | CSS | Vue.js | Quartz (Java) | Python
 -  Estou estudando - Javascript, Vue.js, Java
