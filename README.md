@@ -1,8 +1,6 @@
 
 # Bem-vindos ao meu perfil!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aprendiz+no+Desenvolvimento+de+Sistemas+%7C+Javascript+%7C+HTML+%7C+CSS+%7C+Vue.js+%7C+Quartz+(Java)+%7C+Python)](https://git.io/typing-svg)
-
 - Aprendiz no Desenvolvimento de Sistemas
 - Tecnologias: JavaScript, HTML, CSS, Vue.js, Quartz (Java), Python
 - Atualmente estudando: JavaScript, Vue.js, Java
