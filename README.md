@@ -2,8 +2,8 @@
 # Bem-vindos ao meu perfil!
 
 - Aprendiz no Desenvolvimento de Sistemas
-- Tecnologias: JavaScript, HTML, CSS, Vue.js, Quartz (Java), Python
-- Atualmente estudando: JavaScript, Vue.js, Java
+- Tecnologias: JavaScript, HTML, CSS, Vue.js, Quarkus (Java), Python
+- Atualmente estudando: Vue.js, Quarkus (Java)
 
 ## Estatísticas do GitHub
 
